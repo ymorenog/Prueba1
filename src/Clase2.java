@@ -5,6 +5,7 @@ public class Clase2 {
 		// TODO Auto-generated method stub
 		System.out.println("Hola clase2");
 		System.out.println("Hola2 clase2");
+		System.out.println("Hola3 clase2");
 
 	}
 
